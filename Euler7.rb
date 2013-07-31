@@ -1,4 +1,4 @@
-# Prints 10001 th prime number
+# Prints 10001th prime number
 #
 #
 
