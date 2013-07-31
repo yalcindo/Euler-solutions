@@ -1,3 +1,4 @@
 gSchool
 =======
-it is a gSchool application
+Solution in ruby.
+http://projecteuler.net/problem=7
